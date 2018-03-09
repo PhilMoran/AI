@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Boids.vcxproj, Swarm.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\boid.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\boid.h(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\boid.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\main.cpp(44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\main.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\main.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\gameuser\desktop\ai\fuzzylogic\boids\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Boids.vcxproj -> C:\Users\gameuser\Desktop\AI\FuzzyLogic\Debug\Flock.exe
